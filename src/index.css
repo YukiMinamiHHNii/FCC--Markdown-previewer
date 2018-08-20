@@ -40,7 +40,6 @@ html {
 #preview {
   width: 50%;
   min-height: 100vh;
-  max-height: 100vh;
   padding: 0.75rem;
   background-color: var(--color-secondary);
 }
